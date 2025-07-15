@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander1914" alt="alexander1914" /></a> </p>
 
-- 🌱 I’m currently learning **angular, material, angular fire, firebase, git actions, spring boot, spring security, spring JPA and Docker**
+- 🌱 I’m currently learning **more angular, material, angular fire, firebase, git actions, spring boot, spring security, spring JPA and Docker**
 
 - ⚡ Fun fact **I'm surely believe that we will build new things to help many people around the world.**
+- ⚡ Fun fact **In my free time** I enjoy to play **video games like FIFA and Legends of Legends**, play soccer and watch many series and movies on stremings like Netflix and PrimeVideo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
