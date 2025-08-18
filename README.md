@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **more angular, material, angular fire, firebase, git actions, spring boot, spring security, spring JPA and Docker**
 
 - ⚡ Fun fact **I'm surely believe that we will build new things to help many people around the world.**
-- ⚡ Fun fact **In my free time** I enjoy to play **video games like FIFA and Legends of Legends**, play soccer and watch many series and movies on stremings like Netflix and PrimeVideo
+- ⚡ Fun fact **In my free time** I enjoy to play **video games like FIFA and Legends of Legends**, play soccer and watch many series and movies on stremings like Netflix and PrimeVideo.
+- ⚡ Fun fact **In my free time** I enjoy to travel around the world because **I love to swim differents oceans around the world** besides that I love to travel around Italy like **Amalfi acost**🏝🏞.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
