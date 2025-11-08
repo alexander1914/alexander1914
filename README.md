@@ -11,6 +11,7 @@
 - ⚡ Fun fact **I'm a fan Palmeiras Club in Brazil the best club around the World**
 - ⚡ Fun fact **In my free time** I enjoy to play **video games like FIFA and Legends of Legends**, play soccer and watch many series and movies on stremings like Netflix and PrimeVideo.
 - ⚡ Fun fact **In my free time** I enjoy to travel around the world because **I love to swim differents oceans around the world** besides that I love to travel around Italy like **Amalfi acost**🏝🏞.
+- **I surely believe that** it's important spend more time with the family everytime. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
