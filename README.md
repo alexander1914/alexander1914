@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Alexander Albuquerque Oliveira</h1>
-<h3 align="center">A passionate about tecnologies a few years from I'll be a software architect.</h3>
+<h3 align="center">I'm a developer driven by the belief that technology can build a better world and help people globally besides that, I'm focused on mastering full-stack development and cloud-native technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander1914&label=Profile%20views&color=0e75b6&style=flat" alt="alexander1914" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander1914" alt="alexander1914" /></a> </p>
 
-- 🌱 I’m currently learning **more angular, material, angular fire, firebase, git actions, spring boot, spring security, spring JPA and Docker**
+---
 
-- ⚡ Fun fact **I'm surely believe that we will build new things to help many people around the world.**
-- ⚡ Fun fact **I'm a fan Palmeiras Club in Brazil the best club around the World**
-- ⚡ Fun fact **In my free time** I enjoy to play **video games like FIFA and Legends of Legends**, play soccer and watch many series and movies on stremings like Netflix and PrimeVideo.
-- ⚡ Fun fact **In my free time** I enjoy to travel around the world because **I love to swim differents oceans around the world** besides that I love to travel around Italy like **Amalfi acost**🏝🏞.
-- **I surely believe that** it's important spend more time with the family everytime. 
+### 🛠️ What I'm currently learning:
+- **Frontend:** Angular (Material, AngularFire)
+- **Backend:** Spring Boot (Security, JPA) and C#(.Net Core, MVC5 and Entity Framework)
+- **Cloud & DevOps:** Firebase, GitHub Actions, Azure, AWS and Docker
+
+---
+
+### ⚡ Fun Facts & Beyond Coding:
+
+* 💡 **Vision:** I firmly believe that our role as developers is to create innovative tools that make a positive global impact.
+* ⚽ **Football:** I am a proud supporter of **Palmeiras**, the greatest club in the world! 💚
+* 🎮 **Gaming:** In my downtime, I enjoy playing **League of Legends** and **FIFA**, or getting out for a real soccer match.
+* 🎬 **Entertainment:** Big fan of movies and series on **Netflix** and **Prime Video**.
+* 🌊 **Travel:** I love exploring the world and swimming in different oceans. My favorite destination so far? The **Amalfi Coast** in Italy. 🇮🇹
+* 👨‍👩‍👧‍👦 **Values:** For me, spending quality time with family is the most important priority.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,8 +72,5 @@
   <a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexander1914&show_icons=true&locale=en&layout=compact" alt="alexander1914" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander1914&show_icons=true&locale=en" alt="alexander1914" /></p>
 
 
