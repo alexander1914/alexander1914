@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Albuquerque Oliveira</h1>
 <h3 align="center">I'm a developer driven by the belief that technology can build a better world and help people globally besides that, I'm focused on mastering full-stack development and cloud-native technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander1914&label=Profile%20views&color=0e75b6&style=flat" alt="alexander1914" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander1914" alt="alexander1914" /></a> </p>
 
 ---
