@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Albuquerque Oliveira</h1>
 <h3 align="center">I'm a developer driven by the belief that technology can build a better world and help people globally besides that, I'm focused on mastering full-stack development and cloud-native technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander1914" alt="alexander1914" /></a> </p>
-
 ---
 
 ### 🛠️ What I'm currently learning:
@@ -18,7 +16,7 @@
 * ⚽ **Football:** I am a proud supporter of **Palmeiras**, the greatest club in the world! 💚
 * 🎮 **Gaming:** In my downtime, I enjoy playing **League of Legends** and **FIFA**, or getting out for a real soccer match.
 * 🎬 **Entertainment:** Big fan of movies and series on **Netflix** and **Prime Video**.
-* 🌊 **Travel:** I love exploring the world and swimming in different oceans. My favorite destination so far? The **Amalfi Coast** in Italy. 🇮🇹
+* 🌊 **Travel:** I love exploring the world and swimming in different oceans and my favorite destination is The **Amalfi Coast** in Italy. 🇮🇹
 * 👨‍👩‍👧‍👦 **Values:** For me, spending quality time with family is the most important priority.
 
 <h3 align="left">Connect with me:</h3>
