@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,bootstrap,cs,css,docker,dotnet,elasticsearch,express,firebase,gcp,git,grafana,heroku,html,java,js,jenkins,kafka,kubernetes,linux,mongodb,mysql,nodejs,postgres,postman,redis,sass,spring,ts&perline=14" /></a></p>
+<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,kafka,cs,dotnet,nodejs,express,postman,angular,ts,js,html,css,sass,bootstrap,androidstudio,git,docker,kubernetes,jenkins,linux,grafana,aws,azure,gcp,heroku,firebase,postgres,mysql,mongodb,redis,elasticsearch&perline=14" /></a></p>
 
 
 
